@@ -8,6 +8,6 @@ title: Spatial Statistics Lab
 ## Description
 {{ site.description }}
 
-More details about the project are available from the [About page](about).
+More details about the project are available from the [About page](about).11
 
 Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
