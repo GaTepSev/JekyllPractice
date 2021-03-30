@@ -1,3 +1,8 @@
+---
+css: main
+title: Spatial Statistics Lab 
+---
+
 ![Group Website banner](images/site_banner.png)
 
 ## Description
