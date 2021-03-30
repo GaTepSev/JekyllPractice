@@ -1,5 +1,5 @@
 ---
-css: main
+layout: default
 title: Spatial Statistics Lab 
 ---
 
