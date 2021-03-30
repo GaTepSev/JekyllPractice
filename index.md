@@ -1,4 +1,4 @@
-![Group Website banner](./images/site_banner.png)
+![Group Website banner](images/site_banner.png)
 
 ## Description
 {{ site.description }}
