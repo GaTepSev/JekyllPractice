@@ -1,8 +1,20 @@
-# {{ site.title }}
+# About
 
-## Description
+## Project
+
 {{ site.description }}
 
-More details about the project are available from the [About page](about).
+## Funders
 
-Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
+We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
+
+## Cite us
+
+You can cite the project as:
+
+>    *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
+
+## Contact us
+
+- Email: [{{ site.email }}](mailto:{{ site.email }})
+- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
