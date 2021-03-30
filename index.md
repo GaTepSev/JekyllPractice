@@ -1,4 +1,4 @@
-# {{ site.title }}
+![Group Website banner](./images/site_banner.png)
 
 ## Description
 {{ site.description }}
