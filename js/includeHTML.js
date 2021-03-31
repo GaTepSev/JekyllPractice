@@ -1,3 +1,5 @@
+// https://www.w3schools.com/howto/howto_html_include.asp
+
 function includeHTML(callback) {
   var z, i, elmnt, file, xhr;
   /*loop through a collection of all HTML elements:*/
